@@ -174,12 +174,7 @@ img {
 .advantage-list {
     display: flex;
     justify-content: space-between;
-    column-gap: 24px;
-
-    
-}
-.adg-item {
-    width: calc((100% - 24 * 3) / 4);
+    gap: 24px;
 }
 
 .headline-adg {
@@ -198,6 +193,8 @@ img {
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+
 
 /* === team-section === */
 
