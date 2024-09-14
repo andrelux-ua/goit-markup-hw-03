@@ -173,7 +173,7 @@ img {
 
 .advantage-list {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 24px;
 
     
@@ -183,12 +183,12 @@ img {
 }
 
 .headline-adg {
-    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .desc-adg {
